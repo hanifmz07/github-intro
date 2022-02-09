@@ -3,4 +3,6 @@ video ke 3
 
 ternyata disuruh buat rangkuman :'
 
-uro day 1 git
+-URO day 1 git
+-URO day 2 C++
+-URO day 3 algoritma dan struktur data
