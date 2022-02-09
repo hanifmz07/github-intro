@@ -2,3 +2,5 @@ branch baru
 video ke 3
 
 ternyata disuruh buat rangkuman :'
+
+uro day 1 git
